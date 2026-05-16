@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset folders
+Aptos2019_dataset/
+data/
+datasets/
+
+# Large generated files
+*.h5
+*.keras
+*.ckpt
+*.weights.h5
+
+# Local IDE settings
+.vscode/
+.idea/
